@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+<!-- ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
@@ -67,4 +67,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+screenshot of the website:
+
+![alt text](image.png)
+
+feature (element of the website):
+
+- side navigation bar --> used to change page content by clicking on different buttons in the navbar.
+- charts --> interactive charts that can filtered what kind of data that wanted to shown.
+- sort --> used to sort data in the table on sold list page.
+
+feature (use of the website):
+
+- easy to use website for analytics purpose.
+- have endless possibility for more advanced development of the website.
+- can be used as an template for another analytical website.
+
+what is this website about?
+--> a website that shows the data from a certain bookstore sales, which can be used for analytical purposes such as understanding customer behavior or identifying which item is the most highly sought out by the customer.
+--> can be used to make further improvement on the development of the bookstore

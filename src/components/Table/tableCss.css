@@ -1,0 +1,83 @@
+/* Css for table, th -> header */
+
+/* .custom-table-header {
+  background-color: #1890ff;
+  color: #000000;
+}
+
+.custom-table-row {
+  background-color: #090000;
+  color: #000;
+}
+
+.custom-table .ant-table-wrapper {
+  background-color: #ff0000;
+} */
+
+/* .custom-table .ant-table-cell {
+    background-color: transparent !important; 
+} */
+
+/* Custom transparent table */
+/* .custom-table .ant-table {
+  background-color: transparent; 
+}
+
+.custom-table .ant-pagination {
+  background-color: transparent; 
+  color: #fff !important; 
+} */
+
+/* .custom-table .ant-pagination-item-active a {
+  color: #1890ff; 
+} */
+
+/* .custom-table .ant-table-cell {
+  background-color: #aaa6a6 !important;
+  color: #ffffff !important;
+}
+
+.custom-table .ant-pagination-item-link {
+  color: #fff !important;
+}
+
+
+.custom-table.ant-table {
+  background-color: transparent; 
+}
+
+.custom-table .ant-pagination {
+  background-color: transparent; 
+  color: #fff; 
+}
+
+.custom-table .ant-pagination-item-link,
+.custom-table .ant-pagination-item {
+  color: #fff; 
+}
+
+.custom-table .ant-pagination-item-active {
+  color: #000; 
+} */
+
+.custom-table .ant-table-content th {
+  background-color: #343434 !important;
+  color: #ffffff !important;
+}
+
+.custom-table .ant-table-column-title {
+  font-size: large;
+}
+ant-table-column-title
+
+.custom-table .ant-table-cell{
+  font-size: 12pt;
+}
+
+.ant-table-tbody .ant-table-cell a {
+  text-decoration: none; 
+}
+
+.ant-table-tbody .ant-table-cell a:hover {
+  text-decoration: underline; 
+}
